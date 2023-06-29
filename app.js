@@ -1,3 +1,4 @@
 const Interface = require('./src/Interface');
 
-// Код пиши здесь
+console.log(1111);
+console.log(333333);
